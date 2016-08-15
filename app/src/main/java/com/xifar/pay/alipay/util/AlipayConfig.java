@@ -5,6 +5,6 @@ package com.xifar.pay.alipay.util;
  */
 public class AlipayConfig {
 
-    private static final String URL ="http://localhost:8080/alipay/internal/sign";
+    public static final String URL ="http://192.168.1.105:8080/pay";
 
 }
